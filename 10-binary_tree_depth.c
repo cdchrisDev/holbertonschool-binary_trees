@@ -1,4 +1,4 @@
-#include "binary_tree.h"
+#include "binary_trees.h"
 /**
  * binary_tree_depth - a func that goes the depth of a binary tree
  * @tree: pointer to measure
