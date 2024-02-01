@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_balance - a func that measure balance factor
+ * _binary_tree_balance - a func that measure balance factor
  * @tree: root node to measure
  * Return: the count or 0 if its NULL
  */
